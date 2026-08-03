@@ -1,0 +1,4 @@
+interface:
+  display_name: "信息点发掘"
+  short_description: "主动联网寻找行业话题，或从用户材料中发掘社情民意信息点"
+  default_prompt: "使用 $xinxifajue 主动寻找我关注行业的近期选题，或分析我提供的材料并发掘信息点。"
